@@ -6,5 +6,4 @@ void main()
 	scanf("%d",&a);
 	area=a*a; 
 	printf("area is %d",area);
-	return 0;
 }
